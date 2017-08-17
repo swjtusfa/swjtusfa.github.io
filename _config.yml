@@ -9,13 +9,13 @@ encoding: utf-8
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: 西南交通大学科幻协会  # add banner title
+banner-desc:  # add banner description
 
 # Author settings
 author-pic: writer.png # your photo
 author-name: 西南交通大学科幻协会 # your name
-about-author: 摸鱼中…… # about author
+about-author: “科幻不死，铁甲依然” # about author
 email: your-email@domain.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
