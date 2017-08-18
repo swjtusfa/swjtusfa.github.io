@@ -1,3 +1,9 @@
+# 西南交通大学科幻协会网站
+
+基于bef模板制作而成，jekyll + github pages的静态网站，用于展示协会的各项活动
+
+以下是原文档
+
 # Bef is a responsive jekyll theme
 
 Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
